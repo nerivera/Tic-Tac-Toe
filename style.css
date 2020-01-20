@@ -1,0 +1,40 @@
+* {
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 40px;
+}
+
+html, body {
+  background-color: #beb;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+table {
+  width: 300px;
+  height: 300px;
+  border: 1px solid black;
+  margin: auto;
+  background-color: white;
+}
+
+td {
+  width: 100px;
+  height: 100px;
+  border: 1px solid black;
+  background-color: white;
+}
+
+button {
+  margin-bottom: 20px;
+  margin-top: 100px;
+}
+
+h1 {
+  position: absolute;
+  width: 100%;
+  font-size: 60px;
+  margin-top: 0;
+}
